@@ -15,7 +15,7 @@ This is the modern currency of the world. The world is moving toward the digital
   </li></ul>
   
   <h2>Splash Screen</h2>
-  First Screen of my app its just show some feature of app. For Example<br>
+  First Screen of my app it's just showing some feature of the app. For example:<br>
 <table>
   <tr>
 <td> <img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Splash%20screen%20%E2%80%93%203.png" width="300" height="400" /></td>
@@ -25,10 +25,10 @@ This is the modern currency of the world. The world is moving toward the digital
   </table>
   
   <h2> Login Screen</h2>
-  Its Just check the  Authentication for the user.
+  It's just checking the  Authentication for the user.
  <img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Log%20Screen.png" width="300" height="400" /> 
  <h2>Sign Up Screen</h2>
- If You Are not registered on the app. Then Registered your Self.
+ If you are not registered on the app, then register yourself.
  <table>
   <tr>
 <td> <img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Signup.png" width="300" height="400" /></td>
@@ -39,10 +39,10 @@ This is the modern currency of the world. The world is moving toward the digital
  <h2>Home Screen</h2>
  <img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Home%20Screen.png" width="300" height="400" />
  <h2>Profile Screen</h2>
- In this Screen, user just info about your Self.
+ In this Screen, users can see info about themselves.
  <img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Profile.png" width="300" height="400" />
  <h2>Virtual Card Screen</h2>
- In the Screen, just add the card for using transcation and also check the transcation.
+ In this screen, you can add a card for making transactions and also check previous transactions.
   <table>
   <tr>
 <td> <img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Virtual%20card.png" height="400" /></td>
@@ -50,7 +50,7 @@ This is the modern currency of the world. The world is moving toward the digital
   </tr>
   </table>
 <h2>Game Screen</h2>
-In this Screen, app is provide fun for the user. In the form of different games.
+In this screen, app provides fun for the users, giving them the opportunity to play with different games.
  <table>
   <tr>
 <td> <img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Game.png" width="300" height="400" /></td>
@@ -60,7 +60,7 @@ In this Screen, app is provide fun for the user. In the form of different games.
   </tr>
   </table>
  <h2>Virtual Market Screen</h2>
- In this Screen, user can buy the thing which is available on the market.
+ In this screen, users can buy goods available there.
   <table>
   <tr>
 <td> <img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Scan%20%E2%80%93%201.png" height="400" /></td>
